@@ -1,0 +1,12 @@
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.deps.json
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\refint\CleanArchMvc.Infra.Data.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\ref\CleanArchMvc.Infra.Data.dll

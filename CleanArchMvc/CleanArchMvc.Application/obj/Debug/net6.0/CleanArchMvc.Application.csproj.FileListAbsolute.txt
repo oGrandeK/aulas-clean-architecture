@@ -1,0 +1,12 @@
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.deps.json
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfo.cs
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\refint\CleanArchMvc.Application.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net6.0\ref\CleanArchMvc.Application.dll
