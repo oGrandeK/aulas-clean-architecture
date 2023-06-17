@@ -6,6 +6,14 @@ D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.WebUI.runtimeconfig.json
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.WebUI.dll
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.WebUI.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Application.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Infra.Data.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Infra.IoC.dll
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Infra.IoC.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.csproj.AssemblyReference.cache
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.GeneratedMSBuildEditorConfig.editorconfig
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.AssemblyInfoInputs.cache
@@ -19,6 +27,7 @@ D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\scopedcss\bundle\CleanArchMvc.WebUI.styles.css
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\CleanArchMvc.WebUI.bundle.scp.css
+D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.csproj.CopyComplete
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.dll
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\refint\CleanArchMvc.WebUI.dll
 D:\WorkSpace\CSharp\Macoratti\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.pdb
