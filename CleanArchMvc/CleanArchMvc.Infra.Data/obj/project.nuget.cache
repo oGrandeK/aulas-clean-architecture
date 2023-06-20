@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WGpqMOOwDBqNiFq4j3uHMAEm+ILh1cMmLR1RzAukqsEnxR8JLENGPjMXO79NktI9K50TzUkpIyuvd3Jmxya4nQ==",
+  "dgSpecHash": "qZhRRgl05eDtFNdS1E9i/h9Q8Mu9fZdyiG4ZeBNiSenxND+AUj30HwBXltMrtF4gJmxNzq/PznP1IxWPV/1UpQ==",
   "success": true,
   "projectFilePath": "D:\\WorkSpace\\CSharp\\Macoratti\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
