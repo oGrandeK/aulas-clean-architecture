@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pBpn9nF2UDvBAYHZGtKFKrbyAoWbg6oYWrKRgKGf6rOa/My0svgpRm7OvJdXCOermHxBxZRobvBRxXA08fNsag==",
+  "dgSpecHash": "Qk2HADc15RdUcgqLIATKBRDG2SKI9O39XpJ6fVLDzmvXbYdmwA0P1CI30vRPYzFOcGLqymayTHvxd/Zd+aXE0A==",
   "success": true,
   "projectFilePath": "D:\\WorkSpace\\CSharp\\Macoratti\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kelvi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\kelvi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
